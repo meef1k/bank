@@ -1,0 +1,10 @@
+Proszę zbudowac model danych w oparciu o podane pliki (Klasa User, Account)
+Uzytkownik moze posiadac kilka kont
+
+Program powinien:
+1. wypisywac liste kont uzytkownika
+2. umozliwiać dokonywanie wplat, wyplat z konta
+3. wypisać listę konta zablokowanych
+4. wygenerowac raport o uzytkownikach wraz z saldem na poszczegolnych kontach
+
+Prosze wykorzystc LINQ tam gdzie jest to mozliwe.
